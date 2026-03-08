@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Junjie Zhang"
-description              : "Academic Homepage of Junjie Zhang"
+description              : "Focusing on LLM reasoning and cognition, with interdisciplinary frontiers in medical informatics"
 repository               : "PolaKuma/PolaKuma.github.io"
-google_scholar_stats_use_cdn : true # 建议设为 true，方便国内访问引用数据
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,12 +23,12 @@ baidu_site_verification  :
 author:
   name             : "Junjie Zhang"
   avatar           : "images/profile.png"
-  bio              : "Master's Student at USTC<br>BDAA Lab"
+  bio              : "Master's Student at USTC"
   location         : "Hefei, Anhui"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=5lTslJwAAAAJ&hl=en"
-  email            : "junjiezhang1@vip.qq.com"
+  email            : "polabread@mail.ustc.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Junjie-Zhang-96"
   uri              :
   bitbucket        :

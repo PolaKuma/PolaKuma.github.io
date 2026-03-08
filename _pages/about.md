@@ -21,6 +21,8 @@ redirect_from:
 
 🔬 My research primarily focuses on the cognition and mathematical reasoning of Large Language Models (LLMs), including exploring internal model features to evaluate reasoning correctness. I am also deeply engaged in interdisciplinary collaborations in bioinformatics and medical informatics. My work spans leveraging LLM multi-agent frameworks for cancer origin tracing, developing multimodal digital biomarkers using wearable sensors, and designing self-supervised calibration methods for robust model predictions. 
 
+📬 I am always open to collaborations and academic exchanges, feel free to reach out via email: **polabread@mail.ustc.edu.cn**.
+
 <span class='anchor' id='-education'></span>
 
 # 🎓 Education
