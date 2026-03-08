@@ -51,9 +51,9 @@ redirect_from:
 
 </div></div>
 
-- **CIPA: A Multimodal Deep Learning Fusion-Based Cognitive Impairment Monitoring Framework Driven by Motion Tracking Data.** Lingjie Fan, Junhan Zhao, Junjie Zhang, Xiyue Wang, Tao Lin. *Under Review*, 2026.
+- 🔄*Under Review*, **CIPA: A Multimodal Deep Learning Fusion-Based Cognitive Impairment Monitoring Framework Driven by Motion Tracking Data.** Lingjie Fan, Junhan Zhao, Junjie Zhang, Xiyue Wang, Tao Lin., 2026.
 
-- **Face2MCI: A Deep Learning Framework for Mild Cognitive Impairment Detection from Facial Videos.** Lingjie Fan<sup>†</sup>, Junjie Zhang<sup>†</sup>, Zheming Zhang, Tao Lin, Tianchen Niu, Shengyi Liu, Leyang Tao, Xinyao Xia, Wenhuan Li, Yongji Wu, Fengyi Wang, Lauren Chan, Samuel L. Volchenboum<sup>\*</sup>, Junhan Zhao<sup>\*</sup>. *Under Review*, 2026. <sub>† Equal contribution; \* Corresponding authors</sub>
+- 🔄*Under Review*, **Face2MCI: A Deep Learning Framework for Mild Cognitive Impairment Detection from Facial Videos.** Lingjie Fan<sup>†</sup>, Junjie Zhang<sup>†</sup>, Zheming Zhang, Tao Lin, Tianchen Niu, Shengyi Liu, Leyang Tao, Xinyao Xia, Wenhuan Li, Yongji Wu, Fengyi Wang, Lauren Chan, Samuel L. Volchenboum<sup>\*</sup>, Junhan Zhao<sup>\*</sup>., 2026. <sub>† Equal contribution; \* Corresponding authors</sub>
 
 - **From Physical Activity Patterns to Cognitive Status: Development and Validation of Novel Digital Biomarkers for Cognitive Assessment in Older Adults.** Lingjie Fan, Fengyi Wang, Junhan Zhao, Junjie Zhang, Yangan Li, Jia Tang, Tao Lin, Quan Wei. *International Journal of Behavioral Nutrition and Physical Activity*, 2025. **(A1)** [[Web]](https://link.springer.com/article/10.1186/s12966-025-01706-x)
 
